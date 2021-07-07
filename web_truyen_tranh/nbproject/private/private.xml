@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/dao/UsersDAO.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/model/Users.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/dao/ComicsDAO.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/common/FileAny.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/model/Tags.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/dao/TagsDAO.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/controller/guest/UserController.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/common/DBConnection.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/web/assets/css/admin.css</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/dao/InteractionsDAO.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/web/index.jsp</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/dao/ChaptersDAO.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/dao/CommentsDAO.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/model/Comments.java</file>
+            <file>file:/D:/Deadine/web_truyen_tranh/web_truyen_tranh/src/java/com/truyentranh/model/Chapters.java</file>
+        </group>
+    </open-files>
+</project-private>
